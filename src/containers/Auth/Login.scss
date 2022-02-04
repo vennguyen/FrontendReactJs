@@ -25,7 +25,16 @@
         text-align: center;
       }
       .login-input {
-        margin: 20px 0px;
+        margin: 10px 0px;
+        .custom-input-password {
+          position: relative;
+          i {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            cursor: pointer;
+          }
+        }
       }
       .btn-login {
         width: 100%;
