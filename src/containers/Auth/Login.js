@@ -44,11 +44,7 @@ class Login extends Component {
                         <div className='col-12'>
                             <button className='btn-login'
                                 onClick={()=> this.handleLogin()}
-<<<<<<< HEAD
                             >Login ASS</button>
-=======
-                            >Login as</button>
->>>>>>> 96bdbba89b8f7879b1dc6eacffe49076615b1c2d
                         </div>
                         
                         <div className='col-12'>
